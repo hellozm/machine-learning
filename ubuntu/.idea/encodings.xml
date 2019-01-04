@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/dataset" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lfr_2.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/slpa_dolphins_exp.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/slpa_football_exp.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/slpa_karate_exp.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/slpa_polbooks_exp.py" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
